@@ -3,9 +3,12 @@
 The CIFAR-10 dataset is a widely used benchmark dataset for image classification tasks in computer vision. It consists of 60,000 color images, each of size 32x32 pixels, divided into 10 different classes. The dataset is evenly split into 50,000 training images and 10,000 test images.
 # Data 
 <img width="1065" alt="Screenshot 2023-07-24 at 5 22 31 AM" src="https://github.com/katipallyvig8899/ERA_9/assets/45558037/05de81d6-45e5-4d9a-868b-b3da64c9b10a">
-# Model Architecture 
+
+
+# Model Architecture   
 
 <img width="681" alt="Screenshot 2023-07-24 at 5 22 24 AM" src="https://github.com/katipallyvig8899/ERA_9/assets/45558037/6de9f789-2ed9-4408-b757-0934d11ddf10">
+
 # Training (Epochs=75)
 EPOCH: 0
 Loss=1.4915597438812256 Batch_id=97 Accuracy=32.40: 100%|██████████| 98/98 [00:24<00:00,  4.03it/s]
